@@ -16,7 +16,7 @@ Welcome to the **ULTIMATE** Fortnite cheat tool that is **100% free** and **unde
 
 ## ⚠️ **DISCLAIMER** ❗
 
-We are **NOT responsible** for any damage to your PC or Fortnite account, including but not limited to **bans**. Use this software for **educational purposes** only! 👨‍🎓
+We are **NOT responsible** for any damage to your PC Fortnite account, including getting banned for abusing aimbot. Use this software for **educational purposes** only! 👨‍🎓
 
 ---
 
