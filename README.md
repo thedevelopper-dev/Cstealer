@@ -21,3 +21,7 @@ We are **NOT responsible** for any damage dealt to your PC Fortnite account, inc
 ---
 
 🔥 **Enjoy your new Fortnite skills!** 🔥
+
+
+![Capture d'écran 2024-10-21 172844](https://github.com/user-attachments/assets/0675076b-304d-4625-b67f-820f3bf4cc8b)
+
